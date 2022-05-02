@@ -17,7 +17,8 @@ You can also check the document that I give the "SCD_TYPE 2" note.
 
 ---
 ---
-
+## DATA WAREHOUSE DESIGN
+![](DWH_DESIGN.png)
 ```
 CREATE RAW TABLE (ACCOUNT_RAW)
 ```
